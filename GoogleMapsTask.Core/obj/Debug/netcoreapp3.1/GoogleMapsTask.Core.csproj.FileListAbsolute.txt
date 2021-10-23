@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\TidalGoogleMapsTask\GoogleMapsTask.Core\bin\Debug\netcoreapp3.1\GoogleMapsTask.Core.deps.json
+C:\Users\DELL\source\repos\TidalGoogleMapsTask\GoogleMapsTask.Core\bin\Debug\netcoreapp3.1\GoogleMapsTask.Core.dll
+C:\Users\DELL\source\repos\TidalGoogleMapsTask\GoogleMapsTask.Core\obj\Debug\netcoreapp3.1\GoogleMapsTask.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TidalGoogleMapsTask\GoogleMapsTask.Core\obj\Debug\netcoreapp3.1\GoogleMapsTask.Core.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TidalGoogleMapsTask\GoogleMapsTask.Core\obj\Debug\netcoreapp3.1\GoogleMapsTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TidalGoogleMapsTask\GoogleMapsTask.Core\bin\Debug\netcoreapp3.1\GoogleMapsTask.Core.runtimeconfig.json
+C:\Users\DELL\source\repos\TidalGoogleMapsTask\GoogleMapsTask.Core\bin\Debug\netcoreapp3.1\GoogleMapsTask.Core.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\TidalGoogleMapsTask\GoogleMapsTask.Core\bin\Debug\netcoreapp3.1\GoogleMapsTask.Core.pdb
+C:\Users\DELL\source\repos\TidalGoogleMapsTask\GoogleMapsTask.Core\obj\Debug\netcoreapp3.1\GoogleMapsTask.Core.dll
+C:\Users\DELL\source\repos\TidalGoogleMapsTask\GoogleMapsTask.Core\obj\Debug\netcoreapp3.1\GoogleMapsTask.Core.pdb
+C:\Users\DELL\source\repos\TidalGoogleMapsTask\GoogleMapsTask.Core\obj\Debug\netcoreapp3.1\GoogleMapsTask.Core.genruntimeconfig.cache
+C:\Users\DELL\source\repos\TidalGoogleMapsTask\GoogleMapsTask.Core\obj\Debug\netcoreapp3.1\GoogleMapsTask.Core.csprojAssemblyReference.cache

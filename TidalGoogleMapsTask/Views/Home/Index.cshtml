@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://developers.google.com/maps/documentation">Google Maps Select Location</a>.</p>
+</div>
+
+
+<div id="map" style="height:600px;width:100%"></div>
+<p class="text-danger" id="errorLocationMsg"></p>
+<button class="btn btn-primary" id="savelocationBtn" onclick="SaveUserLoaction()">Save Location</button>
+
+@section Scripts
+{
+
+ <script src="https://maps.googleapis.com/maps/api/js?key=@ViewBag.Key&callback=initMap&v=weekly"
+            async></script>
+
+
+}
+<!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+
+
